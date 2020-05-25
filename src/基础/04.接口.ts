@@ -47,5 +47,6 @@
     age: 18,
   }
   c.name = 'slp'
+  console.log(c.name);
   // c.id = 1 // 只读属性不能修改
 })()
