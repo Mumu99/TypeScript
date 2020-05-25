@@ -1,2 +1,4 @@
-import './01.helloTypeScript';
-import './基础/01.数据类型'
+// import './01.helloTypeScript';
+// import './基础/01.数据类型'
+import './基础/01.类型推论'
+import './基础/03.联合类型'
